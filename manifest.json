@@ -7,7 +7,7 @@
   "theme_color": "#40E0D0",
   "icons": [
     {
-      "src": "https://github.com/Keraunical/diyetIsyan/blob/main/diyetisyAn_logo.png",
+      "src": "https://raw.githubusercontent.com/Keraunical/diyetIsyan/main/diyetisyAn_logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
